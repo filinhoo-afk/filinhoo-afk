@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:3fb950&height=230&section=header&text=filinhoo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=student%20%C2%B7%20developer%20%C2%B7%20ML%20learner&descAlignY=60&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:21262d,100:58a6ff&height=230&section=header&text=filinhoo&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=student%20%C2%B7%20developer%20%C2%B7%20ML%20learner&descAlignY=60&descSize=20" alt="header" />
 
 <a href="https://github.com/filinhoo-afk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20%D0%90%D1%80%D1%82%D1%91%D0%BC;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%A3%D1%80%D0%A4%D0%A3%20%7C%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%98%D0%98;Python%20%E2%80%94%20%D0%BC%D0%BE%D0%B9%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D1%81%20%D0%98%D0%98;%D0%A3%D1%87%D1%83%20ML%20%D0%B8%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20%D0%90%D1%80%D1%82%D1%91%D0%BC;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%A3%D1%80%D0%A4%D0%A3%20%7C%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%98%D0%98;Python%20%E2%80%94%20%D0%BC%D0%BE%D0%B9%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D1%81%20%D0%98%D0%98;%D0%A3%D1%87%D1%83%20ML%20%D0%B8%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C" alt="typing" />
 </a>
 
 </div>
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contributions" width="100%" />
 
 </div>
 
@@ -93,6 +93,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:21262d,100:000000&height=120&section=footer" alt="footer" />
 
 </div>
