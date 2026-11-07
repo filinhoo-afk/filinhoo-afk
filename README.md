@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,numpy,git,github,vscode&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="stack" />
 
 </div>
 
@@ -68,6 +68,16 @@
 
 
 <img src="https://streak-stats.demolab.com?user=filinhoo-afk&theme=github-dark-blue&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 🧊 Мои коммиты в 3D
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
 
 </div>
 
